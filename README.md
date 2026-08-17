@@ -40,4 +40,4 @@ Docs & guides: https://stable-diffusion-elite.softnation.xyz
 ## 🚀 Quick Setup
 1. Click the download link above to get the current version.
 2. Extract all files to your preferred directory on disk.
-3. Open the application launcher and complete the initial configuration.
+3. Open the application launcher and complete the initial configuration. 
